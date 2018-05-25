@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body>
+        <div class="topic-hero">
+            <div class="top-bar">
+                <p class="help-title" style="font-size: 28pt;"><MadCap:variable name="General.ProductName" /> </p>
+            </div>
+            <div class="home-layout">
+                <div class="home-content-container">
+                    <div>
+                        <MadCap:bodyProxy />
+                    </div>
+                    <div class="footer center">
+                        <div class="home-master-page-footer">
+                            <div>
+                                <table style="width: 100%;margin-left: auto;margin-right: auto;">
+                                    <col style="width: 68px;" />
+                                    <col style="width: 65px;" />
+                                    <tbody>
+                                        <tr>
+                                            <td class="center">
+                                                <p><a href="mailto:domgod@gmail.com"><span class="center" style="font-size: 18pt;">@</span></a>
+                                                </p>
+                                            </td>
+                                            <td>
+                                                <p><a href="https://www.linkedin.com/in/jennifer-joseph-b0980b37/"><img src="../Images/Assets/linked in.png" style="width: 40px;height: 40px;" /></a>
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
